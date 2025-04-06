@@ -1,0 +1,1 @@
+Como parte da jornada, na matéria de Estruturas de Dados e Algoritmos tivemos uma abordagem mais analiticas em relação aos algoritmos (estrutura, construção de código e etc.), estudando o que ocorre quando uma pilha, array, lista é compilada, como também o que acontece em métodos de ordenação: Bubblesort, Countingsort, Radixsorte e etc. 
